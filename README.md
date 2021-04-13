@@ -8,7 +8,7 @@
 > 
 > Whenever our object moves from ground to air, the bot will automatically press the space bar.
 > 
-> Note that we are keeping track of the centroid of the object having the largest area. (Centroid is denoted by the red dot, and the boundaries of the object having the largest area is coloured in orange)
+> Note that we are keeping track of the centroid of the object having the largest area. (Centroid is denoted by the red dot, and the boundaries of the object having the largest area are coloured in orange)
 ---
 
 #### Requirements before executing the [python file]():
