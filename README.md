@@ -1,7 +1,7 @@
 # DinoDrill
 ## Let's Play Chrome Dinosaur Game without touching the Keyboard!!
 ### Author: Christeen T Jose
-#### [Click here]() to Watch the project demonstration video for more explanation.
+#### [Click here](https://www.youtube.com/watch?v=rmCwtzr36NE) to Watch the project demonstration video for more explanation.
 
 ![](https://github.com/ChristeenTJose/DinoDrill/blob/main/poster.JPG) 
 
