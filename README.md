@@ -6,7 +6,7 @@
 ![](https://github.com/ChristeenTJose/DinoDrill/blob/main/poster.JPG) 
 
 ---
-### Requirements before executing the [python file]():
+### Requirements before executing the [python file](https://github.com/ChristeenTJose/DinoDrill/blob/main/DinoDrill.py):
 
 * Download [Chrome Driver](https://chromedriver.chromium.org/downloads) and save it in the same directory as the python file
 * Install Selenium
